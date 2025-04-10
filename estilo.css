@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+#particles-js {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+/* seu CSS normal continua */
+.titulo {
+    display: flex;
+    justify-content: center;
+    padding-top: 180px;
+}
+
+body {
+    background-color: #28282B;
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+header {
+    color: white;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-top: 8px;
+}
+
+label {
+    color: white;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Links {
+    display: flex;
+    justify-content: center;
+    padding-right: 10px;
+}
+image{
+    color: white;
+}
+
+#instagram{
+    padding-right: 10px;
+}
+
+#whatsapp{
+    padding-top: 10px;
+}
+
+#cv{
+    padding-top: 8px;
+    padding-left: 12px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 250px;
+    font-size: 12px;
+}
